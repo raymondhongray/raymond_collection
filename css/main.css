@@ -255,10 +255,22 @@ header > .r-title {
     background: #D14337;
 }
 
+.grid-item-darkred {
+    background: #7f0013;
+}
+
+.grid-item-crimson {
+    background: #d10a27;
+}
+
 .grid-item-pink {
     background: #D14493;
 }
 
 .grid-item-grey {
     background: #333;
+}
+
+.grid-item-black {
+    background: #000;
 }
