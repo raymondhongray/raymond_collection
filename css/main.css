@@ -201,8 +201,8 @@ header > .r-title {
     -o-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     /*width: 85%;*/
-    border: 7px solid #fff;
-    border-radius: 5px;
+    border: 4px solid #fff;
+    border-radius: 2px;
 }
 
 .content-wrapper > .grid-item .cover-opacity {
@@ -261,6 +261,7 @@ header > .r-title {
 
 .grid-item-crimson {
     background: #d10a27;
+    /*background: #7f0013;*/
 }
 
 .grid-item-pink {
@@ -273,4 +274,8 @@ header > .r-title {
 
 .grid-item-black {
     background: #000;
+}
+
+.grid-item-ivory {
+    background: #fbf3e5;
 }
